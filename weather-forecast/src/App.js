@@ -1,7 +1,9 @@
+import WeatherForecast from "./components/WeatherForecast";
+
 function App() {
   return (
     <>
-      <div>initial</div>
+      <div><WeatherForecast/></div>
     </>
   );
 }
