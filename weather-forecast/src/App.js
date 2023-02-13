@@ -2,9 +2,9 @@ import WeatherForecast from "./components/WeatherForecast";
 
 function App() {
   return (
-    <>
-      <div><WeatherForecast/></div>
-    </>
+    
+      <div className="container"><WeatherForecast/></div>
+    
   );
 }
 
